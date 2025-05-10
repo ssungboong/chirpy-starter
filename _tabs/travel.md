@@ -20,7 +20,7 @@ order: 5
 <https://blog.naver.com/fefe80d5/223670805364>
 
 2024년 11월 23일 ~ 27일
-## Numazu & Hiroshima, Spring 2025
+## Shizuoka & Hiroshima, Spring 2025
 
 2025년 5월 11일 ~ 15일
 ## Takamatsu, Fall 2025
